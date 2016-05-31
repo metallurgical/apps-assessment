@@ -4,7 +4,7 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
     <!-- login -->
-    <color name="colorPrimaryLogin">#00695C</color>
-    <color name="colorPrimaryDarkLogin">#004D40</color>
-    <color name="colorAccentLogin">#B2DFDB</color>
+    <color name="colorPrimaryLogin">#00838F</color>
+    <color name="colorPrimaryDarkLogin">#006064</color>
+    <color name="colorAccentLogin">#E0F7FA</color>
 </resources>
